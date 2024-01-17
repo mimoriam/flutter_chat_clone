@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "523179073128",
+    "project_id": "flutter-chat-clone-628df",
+    "storage_bucket": "flutter-chat-clone-628df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523179073128:android:51060fbcf5a26883b965dd",
+        "android_client_info": {
+          "package_name": "com.example.flutter_chat_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7hTcxWWzUgHDBIlZDCrqUWqSkjWByBoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
