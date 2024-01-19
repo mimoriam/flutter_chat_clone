@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_chat_clone/colors.dart';
+import 'package:flutter_chat_clone/common/utils/colors.dart';
 
 class WebSearchBar extends StatelessWidget {
   const WebSearchBar({Key? key}) : super(key: key);

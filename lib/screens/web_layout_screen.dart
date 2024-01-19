@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_chat_clone/colors.dart';
-import 'package:flutter_chat_clone/widgets/chat_list.dart';
-import 'package:flutter_chat_clone/widgets/web_chat_appbar.dart';
-import 'package:flutter_chat_clone/widgets/contacts_list.dart';
-import 'package:flutter_chat_clone/widgets/web_profile_bar.dart';
-import 'package:flutter_chat_clone/widgets/web_search_bar.dart';
+import 'package:flutter_chat_clone/common/utils/colors.dart';
+import 'package:flutter_chat_clone/common/widgets/chat_list.dart';
+import 'package:flutter_chat_clone/common/widgets/web_chat_appbar.dart';
+import 'package:flutter_chat_clone/common/widgets/contacts_list.dart';
+import 'package:flutter_chat_clone/common/widgets/web_profile_bar.dart';
+import 'package:flutter_chat_clone/common/widgets/web_search_bar.dart';
 
 class WebLayoutScreen extends StatelessWidget {
   const WebLayoutScreen({Key? key}) : super(key: key);

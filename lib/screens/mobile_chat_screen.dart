@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_chat_clone/colors.dart';
+import 'package:flutter_chat_clone/common/utils/colors.dart';
 import 'package:flutter_chat_clone/info.dart';
-import 'package:flutter_chat_clone/widgets/chat_list.dart';
+import 'package:flutter_chat_clone/common/widgets/chat_list.dart';
 
 class MobileChatScreen extends StatelessWidget {
   const MobileChatScreen({Key? key}) : super(key: key);

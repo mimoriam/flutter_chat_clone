@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_chat_clone/colors.dart';
-import 'package:flutter_chat_clone/widgets/contacts_list.dart';
+import 'package:flutter_chat_clone/common/utils/colors.dart';
+import 'package:flutter_chat_clone/common/widgets/contacts_list.dart';
 
 class MobileLayoutScreen extends StatelessWidget {
   const MobileLayoutScreen({Key? key}) : super(key: key);
